@@ -10,7 +10,7 @@ public class Main {
 		Instant start = Instant.now();
         
 		// FileManager object for reading from the input file with *size* elements
-		FileManager fileManager = new FileManager(100);
+		FileManager fileManager = new FileManager(10000000);
 		int[] array = fileManager.ReadFromFile();
 		
 		// QuickSort object for sorting the array resulted from the input file
