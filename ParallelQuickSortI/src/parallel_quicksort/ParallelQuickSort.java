@@ -80,7 +80,6 @@ public class ParallelQuickSort extends RecursiveTask<Integer> {
         // Wait until left thread complete
         left.join();
   
-        // We don't want anything as return
         return null;
 	}
 }

@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab1P2.vcxproj, Lab2P2.vcxproj, Lab3P1.vcxproj, Lab4.vcxproj, ParallelQuickSortII.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MPIQuickSort.cpp
+  MPIQuickSort.vcxproj -> D:\An3Sem2\APD\APD-Project\MPIQuickSort\x64\Debug\MPIQuickSort.exe
